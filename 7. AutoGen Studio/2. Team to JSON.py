@@ -7,7 +7,7 @@ agent = AssistantAgent(
         name="weather_agent",
         model_client=OpenAIChatCompletionClient(
             model="gpt-4o-mini",
-            api_key="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"
+            #api_key="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"
         ),
     )
 

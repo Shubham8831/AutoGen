@@ -11,7 +11,7 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 
 # Set up Serper API key
-os.environ["SERPER_API_KEY"] = "8c8e65ec131852cd74158b38f7e31c921da8d5e9"  # Replace with your key
+#os.environ["SERPER_API_KEY"] = "8c8e65ec131852cd74158b38f7e31c921da8d5e9"  # Replace with your key
 
 # Initialize the search tool wrapper
 search_tool_wrapper = GoogleSerperAPIWrapper(type='news')
