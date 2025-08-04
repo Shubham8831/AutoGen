@@ -3,3 +3,9 @@ autogen-ext[openai]
 dotenv
 autogen-core
 pydantic
+
+
+#AI INTERVIEW PROJECT
+
+tiktoken
+
